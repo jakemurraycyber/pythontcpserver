@@ -1,5 +1,7 @@
-# This is a simple tcp server program from Black Hat Programming by Justin Seitz and Tim Arnold
-
+'''
+ This is a simple tcp server program from Black Hat Programming by Justin Seitz and Tim Arnold
+'''
+ 
 import socket
 import threading
 
