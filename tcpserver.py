@@ -4,7 +4,7 @@ import socket
 import threading
 
 IP = '0.0.0.0'
-PORT = 9998
+PORT = 10998
 
 def main():
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
